@@ -1,0 +1,50 @@
+body{
+    .container{
+    background-color:rgb(20, 101, 148);
+    display: flex;
+    align-items: center; 
+    column-gap: 5px;
+    <style>
+    }
+    
+    h1 {
+        text-align: center;
+        color: rgb(255, 255, 255);
+    }    
+        h4 {
+            text-indent: 10%; 
+            max-width: 1000px;
+            min-width: 50px;
+            }
+    
+    .hyperlinks {
+        cursor:pointer;
+        text-align: right;
+        margin-right: 2%;
+    }
+    .hyperlinks .mousetext {
+        visibility: hidden;
+        background-color: white;
+        background-origin: border-box;
+        
+        margin: 0 auto;
+        color: black;
+        position: absolute;
+        transition-property: visibility;
+        transition-delay: 0.1s;
+
+    }
+.hyperlinks:hover .mousetext{
+    visibility: visible;
+    transition-delay: 0.3s;
+}
+
+
+
+    img {
+        object-fit: cover;
+        margin-right: 10%;
+        display: inline-block; position: relative; width: 200px; height: relative; overflow: hidden; border-radius: 50%; }
+        min-width: 1000px;
+    </style>
+    }
