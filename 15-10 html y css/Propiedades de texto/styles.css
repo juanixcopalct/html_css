@@ -1,0 +1,15 @@
+
+p {
+    color: black;
+    font-family: OG;
+    font-size: 20px;
+    font-weight: 900; /*Con bold se puede dar negrilla a todos los elementos que pertenecen a p, con bolder se sube un grado a la negrilla de defecto del font-weight*/
+    font-style: italic; /*Oblique también inclina un poco la letra*/
+    text-align: justify;
+    text-decoration: underline; /*overline , line-through*/
+    line-height: 2; /*Espacio entre línea y línea*/
+    letter-spacing: 2px;
+    text-transform: capitalize;
+
+}
+
