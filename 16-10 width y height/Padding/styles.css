@@ -1,0 +1,48 @@
+.formulario {
+background-color: black;
+/*padding: 10px 15px 20px 25px; /*Al utilizar dos valores se está definiendo los valores verticales y horizontales, también se puede definir los valores individualmente*/
+}
+
+.formulario_input {
+/*padding: 5px;*/
+width: 100%;
+background-color: blanchedalmond;
+color: black;
+font-style: italic;
+font-family: 'Times New Roman', Times, serif;
+}
+
+.formulario_submit {
+    background-color:blanchedalmond;
+    text-transform: uppercase;
+}
+
+body {
+    margin: 0px;
+}
+
+.margen1{
+    background-color: aqua;
+    height: 150px;
+    width: 150px;
+    margin: 2px;
+}
+.margen2{
+    background-color: aqua;
+    height: 150px;
+    width: 150px;
+    margin: 2px;
+}
+.margen3{
+    background-color: aqua;
+    height: 150px;
+    width: 150px;
+    margin:2px;
+}
+
+/*
+.separador {
+    overflow: hidden;
+Por medio de overflow: hidden, se logra separar individualmente cada elemento de los márgenes. 
+}*/
+
