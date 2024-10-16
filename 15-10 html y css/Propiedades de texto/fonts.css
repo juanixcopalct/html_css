@@ -1,0 +1,24 @@
+@font-face {
+    font-family: OG;
+    src: url(static/BalooPaaji2-Regular.ttf) format("truetype");
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: OG;
+    src: url(static/BalooPaaji2-Medium.ttf) format("truetype");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: OG;
+    src: url(static/BalooPaaji2-SemiBold.ttf) format("truetype");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: OG;
+    src: url(static/BalooPaaji2-ExtraBold.ttf) format("truetype");
+    font-weight: 900;
+}
+
