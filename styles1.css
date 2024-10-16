@@ -1,0 +1,51 @@
+
+body{
+    font-size: 40;  
+}
+
+
+
+div{
+    background : #ededed;
+    padding: 20 px;
+    font-family: sans-serif;
+    border-left: 5px solid #999;
+    font-size: 20px;
+    box-sizing: border-box;
+
+
+}
+
+h1 {
+    margin:0;
+    font-size: 23px;
+    background-color: rgb(161, 22, 138);
+  
+    height: 40vh;
+
+}
+
+span{
+    color: #999;
+    font-size: 16px;
+    font-weight: 100;
+
+}
+
+p {
+    color: #2b0909;
+    font-size: 1em
+    
+}
+
+body{
+    background-color: cadetblue;
+}
+
+.box {
+    width:200px;
+    height: 200;
+    margin: 20px;
+    background-color: crimson;
+    background-image: url(https://cdn.pixabay.com/photo/2023/10/30/05/19/sunflowers-8351807_640.jpg);
+}
