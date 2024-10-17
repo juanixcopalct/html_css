@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+}
+.box{
+    width: 500px;
+    height: 200px;
+    background: rgba(255, 255, 255, 0);
+}
+.main{
+    background: #c0afff5f;
+    border: 10px rgb(85, 85, 255);
+    border-style: solid;
+    font-weight: bolder;
+    text-wrap: 170px;
+    font-size: xx-large;
+    color: rgb(20, 201, 80);
+}
+.other{
+    background: hsla(0, 100%, 50%, 0.411);
+    height: 700px;
+    width: 400px;
+    margin: -100px;
+    border-top: blue;
+    border-style: double;
+    border-radius: 10%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-align: center;
+}
+div{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

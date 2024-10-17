@@ -1,0 +1,29 @@
+.box{
+    color: beige;
+    width: 150px;
+    height: 150px;
+    background: gray;
+    margin: 10px;
+}
+
+.main{
+    border: 50px;
+    border-color: rgb(172, 109, 255);
+    border-style: outset;
+}
+
+.other{
+    border: 30px;
+    padding: 30%;
+    border-color: black;
+    border-style: outset;
+    box-sizing: border-box;
+}
+
+.new{
+    border: 30px;
+    padding: 30%;
+    border-color: rgb(117, 41, 41);
+    border-style: outset;
+    box-sizing: content-box;
+}

@@ -1,0 +1,30 @@
+.big_form{
+    position: absolute;
+    margin-left: 25%;
+    background-color: skyblue;
+    align-self: center;
+    padding:1%;
+    width: 45%;
+}
+
+.inputs{
+    
+    font-weight: 600;
+    font-size:70%;
+    max-width: min-content;
+    background-color: rgb(224, 224, 255);
+    padding: 1%;
+    margin: 1%;
+    color: blue;
+}
+
+.button{
+    color: black;
+    text-transform: uppercase;
+}
+
+.box{
+    background-color: rgb(85, 187, 187);
+    padding: 5%;
+    margin: 1% 20%;
+}

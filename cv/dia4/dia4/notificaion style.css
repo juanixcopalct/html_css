@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+}
+.notificartion{
+    color: black;
+    background-color: rgba(128, 128, 128, 0.425);
+    height: 100px;
+    width: 200px;
+    border-left: 20px;
+    border-color: beige;
+    border-style: double;
+}
+
+div{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
