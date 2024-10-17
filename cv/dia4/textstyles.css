@@ -1,0 +1,18 @@
+div{
+    background-color: rgb(35, 191, 243);
+    padding: 1% 5% 5% 5%;
+    text-align: justify;
+    width: 500px;
+    margin: auto;
+}
+body{
+    background-color: rgb(126, 218, 218);
+}
+h1{
+    text-align: center;
+}
+
+p{
+    padding: 5%;
+    background-color: srgb(71, 255, 194);
+}
