@@ -1,3 +1,7 @@
+body {
+    background-color: black;
+}
+
 div{ 
     background-color: aquamarine;
     width: 200px;
@@ -7,5 +11,16 @@ div{
     border-style: solid;
     border-color: black;
     /*se puede hacer lo mismo ocupando solamente border, se tiene que ordenar los elementos de la siguiente manera width-style,color*/
-    border-radius: 8px;s
+    /*Se le puede dar un estilo en específico a cada uno de los bordes utilizando :border-top-left-radius */
+    /*Se puede hacer la misma función especificando cuanto quiere que se redondee el borde con borde-radius, se tiene que específicar en base a las manecillas del reloj*/
+    border-radius: 8px;
+}
+
+input {
+    border: none;
+    border-top: 1px solid aquamarine;
+    border-left: 1px solid aquamarine;
+    padding: 9px 6px;
+    background: transparent;
+    color: bisque; 
 }

@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+.box-default {
+    padding: 25px;
+    border: 10px;
+}
+
+.box-new {
+    padding: 30px;
+    border: 10px;
+    box-sizing: border-box;
+}

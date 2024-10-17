@@ -1,0 +1,11 @@
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: #a225;
+    text-align: center;
+    padding: 30px 60px;
+    margin: 20px;
+    margin-left: 300px;
+    color: #000
+    /*Este método de selección de colores se basa en un sistema hexadecimal, se sigue el mismo orden que en rgb, eñ 4to dígito sirve para definir la opacidad, por lo que no es necesario que se le asigne un valor, entre menos valor le demos menos opacidad se mostrara*/
+}
